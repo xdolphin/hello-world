@@ -12,7 +12,7 @@ Vector Graphic 的初始化会消耗更多的 CPU 资源，因此建议一张 ve
 
 1. 右击 `res/` 选择 **New** > **Vector Asset**, 就会打开。
 
-    ![vas-materialicon](.\android-images\vas-materialicon.png)
+    ![vas-materialicon](android-images\\vas-materialicon.png)
 
 2. 点击 **choose** 选择图案。
 
